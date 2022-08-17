@@ -1,0 +1,201 @@
+.left-heading-container {
+    display: flex;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+}
+
+.about-link {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #7a7f85;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.store-link {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #5F6368;
+    text-decoration: none;
+}
+
+.right-heading-container {
+    display: flex;
+    align-items: row;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+.gmail-link {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #5F6368;
+    text-decoration: none;
+    padding-top: 7px;
+    padding-right: 20px;
+}
+
+.images-link {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #5F6368;
+    text-decoration: none;
+    padding-top: 7px;
+    padding-right: 15px;
+}
+
+.square-icon {
+    padding-top: 2px;
+    padding-right: 15px;
+    height: 30px;
+}
+
+.sign-in {
+    background-color: #4387fd;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 70px;
+    border: 1px solid transparent;
+}
+
+.main-container {
+    display: flex;
+    height: 475px;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.google-logo {
+    width: 325px;
+    height: auto;
+    max-width: 100%;
+    padding-bottom: 40px;
+}
+
+.search-container {
+    position: absolute;
+    display: flex;
+    padding-top: 125px;
+}
+
+.search-icon {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.input {
+    width: 380px;
+    height: 40px;
+    border-radius: 30px;
+    display: block;
+    outline: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: medium;
+    border: 1px solid grey;
+}
+
+.microphone-icon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    padding-right: 15px;
+    padding-top: 7px;
+}
+
+.button-container {
+    display: flex;
+}
+
+.left-button {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #5F6368;
+    padding: 0 16px;
+    margin: 11px 4px;
+    height: 36px;
+    border: 1px solid transparent;
+}
+
+.right-button {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #5F6368;
+    padding: 0 16px;
+    margin: 11px 4px;
+    height: 36px;
+    border: 1px solid transparent;
+}
+
+.footer-container {
+    bottom: 0;
+    width: 100%;
+}
+
+.left-footer-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.advertising-link {
+    padding-left: 10px;
+    font-size: 14px;
+    color: #616569;
+    text-decoration: none;
+}
+
+.business-link {
+    padding-left: 15px;
+    font-size: 14px;
+    color: #616569;
+    text-decoration: none;
+}
+
+.how-link {
+    padding-left: 15px;
+    font-size: 14px;
+    color: #616569;
+    text-decoration: none;
+}
+
+.right-footer-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.privacy-link {
+    padding-right: 15px;
+    font-size: 14px;
+    color: #616569;
+    text-decoration: none;
+}
+
+.terms-link {
+    padding-right: 15px;
+    font-size: 14px;
+    color: #616569;
+    text-decoration: none;
+}
+
+.settings-link {
+    padding-right: 15px;
+    font-size: 14px;
+    color: #616569;
+    text-decoration: none;
+}
